@@ -23,3 +23,5 @@ public class Class1
     return result;
   }
 }
+
+//Courtesy of https://www.codeproject.com/Articles/1083348/Csharp-BAD-PRACTICES-Learn-how-to-make-a-good-code
